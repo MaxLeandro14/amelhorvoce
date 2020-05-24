@@ -2,6 +2,7 @@
 
 - npm install -g gatsby-cli
 - cd amelhorvoce
+- npm install
 
 #Start development server
 - gatsby develop
